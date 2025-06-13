@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "851277436852",
+    "project_id": "car-rental-and-pooling",
+    "storage_bucket": "car-rental-and-pooling.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851277436852:android:43feec83acdbc3357284e1",
+        "android_client_info": {
+          "package_name": "com.example.carrental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWpe5aSADRvQH2s4cxqWHIZGBR9iWEnho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851277436852:android:37c8dbb86d6e791e7284e1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWpe5aSADRvQH2s4cxqWHIZGBR9iWEnho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
